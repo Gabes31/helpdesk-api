@@ -813,7 +813,7 @@ O projeto possui Maven Wrapper, portanto não é obrigatório instalar o Maven s
 ## 1. Clone o projeto
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/Gabes31/helpdesk-api.git
 ```
 
 Entre na pasta:
